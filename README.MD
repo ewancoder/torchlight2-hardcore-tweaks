@@ -15,3 +15,5 @@ Use it with Synergies placed above Synergies.
 4. Enhancements are dangerous. You have a strong possibility to disenchant all your work. And it's increasing with each enchant up to 80%
 	- 10% initial disenchant chance
 	- +10% disenchant increase chance for each enchant
+
+5. Unusable items are red, unidentified items are yellow
