@@ -16,4 +16,6 @@ Use it with Synergies placed above Synergies.
 	- 10% initial disenchant chance
 	- +10% disenchant increase chance for each enchant
 
-5. Unusable items are red, unidentified items are yellow
+5. Unusable items are red, unidentified items are yellow.
+
+6. Greatly increased cost of spells and potions.
