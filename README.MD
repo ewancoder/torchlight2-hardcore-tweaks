@@ -21,4 +21,6 @@ Use it with Synergies placed above Synergies.
 
 6. Greatly increased cost of spells and potions.
 
-7. Progressive stat and skill points (search for ProgressivePoints mod), but not fame levels
+7. Progressive stat and skill points (search for ProgressivePoints mod), but not fame levels.
+
+8. More distant monsters notice you.
