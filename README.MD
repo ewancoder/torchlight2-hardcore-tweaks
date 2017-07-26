@@ -26,3 +26,5 @@ Use it with Synergies placed above Synergies.
 8. More distant monsters notice you.
 
 9. Nerfed gold drop. Gold is now really scarse! And in late game it will be even more scarsier.
+
+10. Greatly reduce potions and gold drop from treasures.
