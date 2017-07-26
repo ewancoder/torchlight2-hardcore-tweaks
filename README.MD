@@ -24,3 +24,5 @@ Use it with Synergies placed above Synergies.
 7. Progressive stat and skill points (search for ProgressivePoints mod), but not fame levels.
 
 8. More distant monsters notice you.
+
+9. Nerfed gold drop. Gold is now really scarse! And in late game it will be even more scarsier.
